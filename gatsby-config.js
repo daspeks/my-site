@@ -1,7 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `My Gatsby Site`,
-    siteUrl: `https://www.yourdomain.tld`,
+    siteUrl: `https://www.daspeks.gatsbyjs.io`,
   },
-  plugins: [],
-}
+  plugins: ["gatsby-plugin-image",
+  "gatsby-plugin-sharp",],
+};

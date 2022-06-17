@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `My Gatsby Site`,
+    title: `Parthasarathi Das`,
     siteUrl: `https://www.daspeks.gatsbyjs.io`,
   },
   plugins: [

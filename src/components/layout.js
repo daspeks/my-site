@@ -9,7 +9,7 @@ import {
   siteTitle,
 } from './layout.module.css'
 
-import "@fontsource/source-code-pro"
+import "../css/typography.css"
 
 const Layout = ({ pageTitle, children }) => {
   const data = useStaticQuery(graphql`
